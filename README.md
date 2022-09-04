@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyadharshini0101&show_icons=true&theme=cobalt&title_color=067bf9&text_color=ffffff&hide_border=true&locale=en" alt="priyadharshini0101" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshini0101&theme=dark" alt="priyadharshini0101" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshini0101&theme=cobalt" alt="priyadharshini0101" /></p>
