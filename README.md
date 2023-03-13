@@ -2,7 +2,6 @@
 <h3 align="center">I am a Android App Developer</h3>
 
 - 🔭 I’m currently working on **Native Android Projects**
-- 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Android**
 - 📫 How to reach me **priyadharshinis5102@gmail.com**
 
