@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini</h1>
 <h3 align="center">I am a Android App developer</h3>
 
-- 🔭 I’m currently working on **Native Android Projects**
-
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **priyadharshinis5102@gmail.com**
