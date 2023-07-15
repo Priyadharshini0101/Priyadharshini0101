@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini</h1>
-<h3 align="center">I am a Android App d<h1 align="center">Hi 👋, I'm Priyadharshini</h1>
 <h3 align="center">I am a Android App Developer</h3>
 
 - 🔭 I’m currently working on **Native Android Projects**
