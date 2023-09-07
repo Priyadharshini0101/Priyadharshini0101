@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **priyadharshinis5102@gmail.com**
+- 📫 How to reach me **priyadharshne2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
