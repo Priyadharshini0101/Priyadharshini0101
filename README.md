@@ -11,8 +11,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Priyadharshini0101&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharshini0101&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![An image of @priyadharshini0101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyadharshini0101)](https://holopin.io/@priyadharshini0101)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
