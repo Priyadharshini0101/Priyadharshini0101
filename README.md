@@ -16,5 +16,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 #### Portfolio
-![dharshini_0101.dev](bit.ly/dharshini_0101)
+![Portfolio](bit.ly/dharshini_0101)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
