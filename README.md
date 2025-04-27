@@ -15,6 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-#### Portfolio
-[![dharshini_0101.dev](https://portfolio-91a11omzd-priyadharshinis-projects-a027af97.vercel.app/)](https://portfolio-91a11omzd-priyadharshinis-projects-a027af97.vercel.app/)
+## 🚀 Portfolio
+Check out my portfolio here: [dharshini0101.dev](https://dharshini0101.dev)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
