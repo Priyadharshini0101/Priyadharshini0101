@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🚀 Portfolio
-Check out my portfolio here: [priyadharshini.dev](https://portfolio-1si1n2zw8-priyadharshinis-projects-a027af97.vercel.app)
+Check out my portfolio here: [Priyadharshini0101](https://portfolio-1si1n2zw8-priyadharshinis-projects-a027af97.vercel.app)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
