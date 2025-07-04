@@ -20,7 +20,8 @@ Check out my portfolio here: [dharshini0101](https://portfolio-1si1n2zw8-priyadh
 
 
 ## Support
-![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/priyadharso) 
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/priyadharso) 
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
