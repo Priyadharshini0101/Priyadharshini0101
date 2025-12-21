@@ -20,8 +20,4 @@ Check out my portfolio here: [dharshini0101](https://dharshini0101.vercel.app/)
 
 
 ## 💰 Support
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/priyadharso) 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/priyadharso)
