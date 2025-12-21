@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🚀 Portfolio
-Check out my portfolio here: [dharshini0101](https://portfolio-mool98icc-priyadharshinis-projects-a027af97.vercel.app/)
+Check out my portfolio here: [dharshini0101](https://dharshini0101.vercel.app/)
 
 
 ## 💰 Support
