@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini</h1>
-<h3 align="center">I am a Frontend & Android App Developer</h3>
+<h3 align="center">I am a Software Developer</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyadharshini-s-0323a7212/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyadharshinis5102@gmail.com) 
